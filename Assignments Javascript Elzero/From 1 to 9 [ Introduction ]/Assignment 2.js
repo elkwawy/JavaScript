@@ -1,9 +1,6 @@
 //Assignment 2
-let go = `
+let go = `<h1>Elzero</h1>`;
 
-<h1>Elzero</h1>
-
-`;
 document.write(go);
 document.querySelector("h1").style.color = "blue";
 document.querySelector("h1").style.fontSize = "80px";

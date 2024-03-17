@@ -1,4 +1,5 @@
 //Assignment 3
+
 console.log(
   "%cElzero %cWeb %cSchool",
   "color:red; font-size:40px;",
