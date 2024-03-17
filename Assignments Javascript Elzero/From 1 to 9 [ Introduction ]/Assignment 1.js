@@ -6,7 +6,7 @@
 //     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 //     <title>Learn JavaScript</title>
 //     <script>
-//       // Code One //  Because the id that I am selecting not loaded in the page yet 
+//       // Code One //  Because the id that I am selecting not loaded in the page yet
 //       document.getElementById("el").style.color = "red";
 //     </script>
 //     <script>
