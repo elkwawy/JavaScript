@@ -1,2 +1,2 @@
-// Assignment 3
-console.log(Number.MAX_SAFE_INTEGER.toString().length); //16
+// Assignment 2
+console.log(-Number.MIN_SAFE_INTEGER); // 9007199254740991
